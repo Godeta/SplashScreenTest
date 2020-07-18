@@ -8,5 +8,6 @@
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
         android:layout_gravity="center"
-        android:text="KONICHIWAAAAA !!!" />
+        android:text="KONICHIWAAAAA !!!"
+        android:textColor="#9B2F2F"/>
 </LinearLayout>

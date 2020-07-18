@@ -48,6 +48,7 @@ public class Imc extends AppCompatActivity {
             public void onClick(View v) {
                 //récupération du texte et retranscription en float
             String poids = poidsInput.getText().toString();
+            String test = "znjodv";
             String taille = tailleInput.getText().toString();
             float p = Float.valueOf(poids);
             float t = Float.valueOf(taille);
